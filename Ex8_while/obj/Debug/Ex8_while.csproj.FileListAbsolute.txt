@@ -1,0 +1,7 @@
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex8_while\bin\Debug\Ex8_while.exe.config
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex8_while\bin\Debug\Ex8_while.exe
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex8_while\bin\Debug\Ex8_while.pdb
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex8_while\obj\Debug\Ex8_while.csproj.AssemblyReference.cache
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex8_while\obj\Debug\Ex8_while.csproj.CoreCompileInputs.cache
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex8_while\obj\Debug\Ex8_while.exe
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex8_while\obj\Debug\Ex8_while.pdb

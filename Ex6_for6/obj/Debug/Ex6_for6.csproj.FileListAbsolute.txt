@@ -1,0 +1,8 @@
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex6_for6\bin\Debug\Ex6_for6.exe.config
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex6_for6\bin\Debug\Ex6_for6.exe
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex6_for6\bin\Debug\Ex6_for6.pdb
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex6_for6\obj\Debug\Ex6_for6.csproj.AssemblyReference.cache
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex6_for6\obj\Debug\Ex6_for6.csproj.CoreCompileInputs.cache
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex6_for6\obj\Debug\Ex6_for6.exe
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex6_for6\obj\Debug\Ex6_for6.pdb
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex6_for6\obj\Debug\Ex6_for6.exe.config

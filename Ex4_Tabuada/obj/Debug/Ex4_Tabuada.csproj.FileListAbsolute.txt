@@ -1,0 +1,8 @@
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex4_Tabuada\bin\Debug\Ex4_Tabuada.exe.config
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex4_Tabuada\bin\Debug\Ex4_Tabuada.exe
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex4_Tabuada\bin\Debug\Ex4_Tabuada.pdb
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex4_Tabuada\obj\Debug\Ex4_Tabuada.csproj.AssemblyReference.cache
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex4_Tabuada\obj\Debug\Ex4_Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex4_Tabuada\obj\Debug\Ex4_Tabuada.exe
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex4_Tabuada\obj\Debug\Ex4_Tabuada.pdb
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex4_Tabuada\obj\Debug\Ex4_Tabuada.exe.config

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\ClasseAnimal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0EADC3C-35C4-4162-A166-52A52564CFE7}|ClasseAnimal.csproj|c:\\users\\gioli\\documents\\faculdade\\ads\\c#\\classeanimal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0EADC3C-35C4-4162-A166-52A52564CFE7}|ClasseAnimal.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0EADC3C-35C4-4162-A166-52A52564CFE7}|ClasseAnimal.csproj|c:\\users\\gioli\\documents\\faculdade\\ads\\c#\\classeanimal\\cachorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0EADC3C-35C4-4162-A166-52A52564CFE7}|ClasseAnimal.csproj|solutionrelative:cachorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0EADC3C-35C4-4162-A166-52A52564CFE7}|ClasseAnimal.csproj|c:\\users\\gioli\\documents\\faculdade\\ads\\c#\\classeanimal\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0EADC3C-35C4-4162-A166-52A52564CFE7}|ClasseAnimal.csproj|solutionrelative:animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cachorro.cs",
+              "DocumentMoniker": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\ClasseAnimal\\Cachorro.cs",
+              "RelativeDocumentMoniker": "Cachorro.cs",
+              "ToolTip": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\ClasseAnimal\\Cachorro.cs",
+              "RelativeToolTip": "Cachorro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T00:56:50.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\ClasseAnimal\\Animal.cs",
+              "RelativeDocumentMoniker": "Animal.cs",
+              "ToolTip": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\ClasseAnimal\\Animal.cs",
+              "RelativeToolTip": "Animal.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T00:46:36.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\ClasseAnimal\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\ClasseAnimal\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T00:46:10.719Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

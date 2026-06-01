@@ -1,0 +1,14 @@
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\ClasseVeiculo\bin\Debug\net9.0\ClasseVeiculo.exe
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\ClasseVeiculo\bin\Debug\net9.0\ClasseVeiculo.deps.json
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\ClasseVeiculo\bin\Debug\net9.0\ClasseVeiculo.runtimeconfig.json
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\ClasseVeiculo\bin\Debug\net9.0\ClasseVeiculo.dll
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\ClasseVeiculo\bin\Debug\net9.0\ClasseVeiculo.pdb
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\ClasseVeiculo\obj\Debug\net9.0\ClasseVeiculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\ClasseVeiculo\obj\Debug\net9.0\ClasseVeiculo.AssemblyInfoInputs.cache
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\ClasseVeiculo\obj\Debug\net9.0\ClasseVeiculo.AssemblyInfo.cs
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\ClasseVeiculo\obj\Debug\net9.0\ClasseVeiculo.csproj.CoreCompileInputs.cache
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\ClasseVeiculo\obj\Debug\net9.0\ClasseVeiculo.dll
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\ClasseVeiculo\obj\Debug\net9.0\refint\ClasseVeiculo.dll
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\ClasseVeiculo\obj\Debug\net9.0\ClasseVeiculo.pdb
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\ClasseVeiculo\obj\Debug\net9.0\ClasseVeiculo.genruntimeconfig.cache
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\ClasseVeiculo\obj\Debug\net9.0\ref\ClasseVeiculo.dll

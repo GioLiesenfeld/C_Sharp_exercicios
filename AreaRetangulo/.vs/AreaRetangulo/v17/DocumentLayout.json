@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\AreaRetangulo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{549AD748-A7A1-47B7-BA80-ECFC28489196}|AreaRetangulo.csproj|c:\\users\\gioli\\documents\\faculdade\\ads\\c#\\arearetangulo\\arearetangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{549AD748-A7A1-47B7-BA80-ECFC28489196}|AreaRetangulo.csproj|solutionrelative:arearetangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECC58A0-961C-46D0-BEA2-41AB506AA9F2}|..\\projeto 2\\projeto 2.csproj|c:\\users\\gioli\\documents\\faculdade\\ads\\c#\\projeto 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{549AD748-A7A1-47B7-BA80-ECFC28489196}|AreaRetangulo.csproj|C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\AreaRetangulo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{549AD748-A7A1-47B7-BA80-ECFC28489196}|AreaRetangulo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\projeto 2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\projeto 2\\Program.cs",
+              "ToolTip": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\projeto 2\\Program.cs",
+              "RelativeToolTip": "..\\projeto 2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T12:19:29.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AreaRetangulo.cs",
+              "DocumentMoniker": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\AreaRetangulo\\AreaRetangulo.cs",
+              "RelativeDocumentMoniker": "AreaRetangulo.cs",
+              "ToolTip": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\AreaRetangulo\\AreaRetangulo.cs",
+              "RelativeToolTip": "AreaRetangulo.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwCIAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T17:23:44.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\AreaRetangulo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\AreaRetangulo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T17:23:05.232Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

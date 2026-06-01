@@ -1,0 +1,685 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\ExerciciosC#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A9D7D9-93E4-4F99-A343-37546568493A}|..\\Ex10_revisao5\\Ex10_revisao5.csproj|c:\\users\\gioli\\documents\\faculdade\\ads\\c#\\ex10_revisao5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA802758-E9EF-4BE8-A04C-CC12662D1AE8}|..\\Ex10_reviao4\\Ex10_revisao4.csproj|c:\\users\\gioli\\documents\\faculdade\\ads\\c#\\ex10_reviao4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA802758-E9EF-4BE8-A04C-CC12662D1AE8}|..\\Ex10_reviao4\\Ex10_reviao4.csproj|c:\\users\\gioli\\documents\\faculdade\\ads\\c#\\ex10_reviao4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F77A1E7-0727-435B-ACD4-24211BEC11D2}|..\\Ex9_if9\\Ex9_if9.csproj|c:\\users\\gioli\\documents\\faculdade\\ads\\c#\\ex9_if9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FF2817-86F1-4255-AD8A-E89BDC6FCE9D}|..\\Ex4_Tabuada\\Ex4_Tabuada.csproj|c:\\users\\gioli\\documents\\faculdade\\ads\\c#\\ex4_tabuada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF16A45-7493-49E2-9A07-557EA3D3615E}|..\\Ex10_revisao3\\Ex10_revisao3.csproj|c:\\users\\gioli\\documents\\faculdade\\ads\\c#\\ex10_revisao3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1D5B69-344D-4C07-B91E-88CB2F65E28E}|..\\Ex10_revisao2\\Ex10_revisao2.csproj|c:\\users\\gioli\\documents\\faculdade\\ads\\c#\\ex10_revisao2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E12CB5E1-8631-4592-AF22-2F90BA9CD911}|..\\Ex10_revisao1\\Ex10_revisao1.csproj|c:\\users\\gioli\\documents\\faculdade\\ads\\c#\\ex10_revisao1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E7AD7F-E679-41C0-B6F3-8BADDBBA1E76}|..\\Ex10_revisao\\Ex10_revisao.csproj|c:\\users\\gioli\\documents\\faculdade\\ads\\c#\\ex10_revisao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4DE24F-EBC2-4927-84F2-4C1DF25F6C48}|..\\Ex9_if10\\Ex9_if10.csproj|c:\\users\\gioli\\documents\\faculdade\\ads\\c#\\ex9_if10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEA501D-62D6-4728-9DB0-1010C5D26A3D}|..\\Ex8_while6\\Ex8_while6.csproj|c:\\users\\gioli\\documents\\faculdade\\ads\\c#\\ex8_while6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F52C205D-8618-406F-B5AC-371A78BB9E22}|..\\Ex9_if8\\Ex9_if8.csproj|c:\\users\\gioli\\documents\\faculdade\\ads\\c#\\ex9_if8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034660EC-5A23-4A1B-BEEF-79BBE4DE0566}|..\\Ex9_if7\\Ex9_if7.csproj|c:\\users\\gioli\\documents\\faculdade\\ads\\c#\\ex9_if7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD7CACF-1B71-4294-8E79-40BE74BE0D14}|..\\Ex9_if6\\Ex9_if6.csproj|c:\\users\\gioli\\documents\\faculdade\\ads\\c#\\ex9_if6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B337EAD-7272-46CF-90FC-135F7D89AA5E}|..\\Ex9_if5\\Ex9_if5.csproj|c:\\users\\gioli\\documents\\faculdade\\ads\\c#\\ex9_if5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9530A36B-5B13-4638-B72C-4180CCBCD504}|..\\Ex9_if4\\Ex9_if4.csproj|c:\\users\\gioli\\documents\\faculdade\\ads\\c#\\ex9_if4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D570F4E1-CDB6-47CC-BC3E-ACAB0CBFFAB0}|..\\Ex9_if3\\Ex9_if3.csproj|c:\\users\\gioli\\documents\\faculdade\\ads\\c#\\ex9_if3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A12A9C-0102-47DC-A1B9-B79E75192BAD}|..\\Ex9_02\\Ex9_02.csproj|c:\\users\\gioli\\documents\\faculdade\\ads\\c#\\ex9_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D72158-BE8C-48C1-9E4B-2E7795DA1D89}|..\\Ex9_if\\Ex9_if.csproj|c:\\users\\gioli\\documents\\faculdade\\ads\\c#\\ex9_if\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A24B6FF-CDD8-4CA2-B3A1-2C8284B464D5}|..\\Ex8_while10\\Ex8_while10.csproj|c:\\users\\gioli\\documents\\faculdade\\ads\\c#\\ex8_while10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB39B3C-1398-498D-BDD2-485C7985B9E0}|..\\Ex8_while8\\Ex8_while8.csproj|c:\\users\\gioli\\documents\\faculdade\\ads\\c#\\ex8_while8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A799893-37B2-4102-843D-6F4102F28175}|..\\Ex8_while9\\Ex8_while9.csproj|c:\\users\\gioli\\documents\\faculdade\\ads\\c#\\ex8_while9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F7CCB35-A2A4-418A-86CD-4BC3A962B142}|..\\Ex8_while7\\Ex8_while7.csproj|c:\\users\\gioli\\documents\\faculdade\\ads\\c#\\ex8_while7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC1A329-35A9-46A8-A78F-A76D77C469BB}|..\\ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\gioli\\documents\\faculdade\\ads\\c#\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E15D720-3929-40E8-8C22-5A066551E8E4}|..\\Ex8_while3\\Ex8_while3.csproj|c:\\users\\gioli\\documents\\faculdade\\ads\\c#\\ex8_while3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E91FD578-2CEF-49B6-B290-901009662C7B}|..\\Ex8_while5\\Ex8_while5.csproj|c:\\users\\gioli\\documents\\faculdade\\ads\\c#\\ex8_while5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB5D4F86-6752-4305-ACA8-1B50B87EBE66}|..\\Ex8_while2\\Ex8_while2.csproj|c:\\users\\gioli\\documents\\faculdade\\ads\\c#\\ex8_while2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0321FA20-5F37-4DAD-86FF-1005336A7F67}|..\\Ex8_while1\\Ex8_while1.csproj|c:\\users\\gioli\\documents\\faculdade\\ads\\c#\\ex8_while1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF4B00C-C3C3-4657-899C-99F6316B90DF}|..\\Ex8_while\\Ex8_while.csproj|c:\\users\\gioli\\documents\\faculdade\\ads\\c#\\ex8_while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AB48ACF-D4B5-47DB-AF9D-2A0A5212751D}|..\\Ex6_for4\\Ex6_for4.csproj|c:\\users\\gioli\\documents\\faculdade\\ads\\c#\\ex6_for4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF0FB4F-87FE-4AEA-A613-796C47932F43}|..\\Ex6_for5\\Ex6_for5.csproj|c:\\users\\gioli\\documents\\faculdade\\ads\\c#\\ex6_for5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85F798A-B6D0-44D8-A79D-9A1DF3A58C98}|..\\Ex7_Fibonacci\\Ex7_Fibonacci.csproj|c:\\users\\gioli\\documents\\faculdade\\ads\\c#\\ex7_fibonacci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C5CC17A-D870-4477-9ACE-CAAFF05062C9}|..\\Ex6_for10\\Ex6_for10.csproj|c:\\users\\gioli\\documents\\faculdade\\ads\\c#\\ex6_for10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E45FC2B9-9DB5-418B-96EF-595322055A88}|..\\Ex6_for9\\Ex6_for9.csproj|c:\\users\\gioli\\documents\\faculdade\\ads\\c#\\ex6_for9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB7F368A-7029-46FC-B8D3-F5D3345E1CC8}|..\\Ex6_for8\\Ex6_for8.csproj|c:\\users\\gioli\\documents\\faculdade\\ads\\c#\\ex6_for8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2292586B-3F15-45C5-9602-2617DD4B3F2E}|..\\Ex6_for6\\Ex6_for6.csproj|c:\\users\\gioli\\documents\\faculdade\\ads\\c#\\ex6_for6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E61C4C16-2806-491F-A0BA-8F7BC27C7996}|..\\Ex6_for7\\Ex6_for7.csproj|c:\\users\\gioli\\documents\\faculdade\\ads\\c#\\ex6_for7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C079CC5F-CFAA-471B-B3ED-E6BD811E39B5}|..\\Ex6_for3\\Ex6_for3.csproj|c:\\users\\gioli\\documents\\faculdade\\ads\\c#\\ex6_for3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B994CE08-698A-407E-AF35-451A7BDFA369}|..\\Ex6_for2\\Ex6_for2.csproj|c:\\users\\gioli\\documents\\faculdade\\ads\\c#\\ex6_for2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91BF2C95-9642-4D88-AAB4-1E58FE748246}|..\\Ex6_for1\\Ex6_for1.csproj|c:\\users\\gioli\\documents\\faculdade\\ads\\c#\\ex6_for1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D07AB8D-7037-44C2-A254-8C5DAB8931BD}|..\\Ex5_Contagem\\Ex5_Contagem.csproj|c:\\users\\gioli\\documents\\faculdade\\ads\\c#\\ex5_contagem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6555E274-55EC-480E-A6B7-EB149CA6E771}|..\\Ex3_comparacao_de_valores\\Ex3_comparacao_de_valores.csproj|c:\\users\\gioli\\documents\\faculdade\\ads\\c#\\ex3_comparacao_de_valores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB1ACA61-B24A-4020-B3BB-18B0E2530E5C}|..\\Soma\\Soma.csproj|c:\\users\\gioli\\documents\\faculdade\\ads\\c#\\soma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C3F07D-A22D-4BF2-994B-A3E5770BF528}|ExerciciosC#.csproj|C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\ExerciciosC#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C3F07D-A22D-4BF2-994B-A3E5770BF528}|ExerciciosC#.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex10_revisao5\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ex10_revisao5\\Program.cs",
+              "ToolTip": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex10_revisao5\\Program.cs",
+              "RelativeToolTip": "..\\Ex10_revisao5\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowBAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T19:57:58.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex10_reviao4\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ex10_reviao4\\Program.cs",
+              "ToolTip": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex10_reviao4\\Program.cs",
+              "RelativeToolTip": "..\\Ex10_reviao4\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T19:54:09.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex10_reviao4\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ex10_reviao4\\Program.cs",
+              "ToolTip": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex10_reviao4\\Program.cs",
+              "RelativeToolTip": "..\\Ex10_reviao4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T18:08:18.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex10_revisao2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ex10_revisao2\\Program.cs",
+              "ToolTip": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex10_revisao2\\Program.cs",
+              "RelativeToolTip": "..\\Ex10_revisao2\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T17:30:07.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex10_revisao1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ex10_revisao1\\Program.cs",
+              "ToolTip": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex10_revisao1\\Program.cs",
+              "RelativeToolTip": "..\\Ex10_revisao1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T17:22:56.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex10_revisao\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ex10_revisao\\Program.cs",
+              "ToolTip": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex10_revisao\\Program.cs",
+              "RelativeToolTip": "..\\Ex10_revisao\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T17:13:42.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex9_if10\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ex9_if10\\Program.cs",
+              "ToolTip": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex9_if10\\Program.cs",
+              "RelativeToolTip": "..\\Ex9_if10\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T13:50:28.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex9_if9\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ex9_if9\\Program.cs",
+              "ToolTip": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex9_if9\\Program.cs",
+              "RelativeToolTip": "..\\Ex9_if9\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T12:47:30.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex9_if8\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ex9_if8\\Program.cs",
+              "ToolTip": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex9_if8\\Program.cs",
+              "RelativeToolTip": "..\\Ex9_if8\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T11:42:55.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex4_Tabuada\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ex4_Tabuada\\Program.cs",
+              "ToolTip": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex4_Tabuada\\Program.cs",
+              "RelativeToolTip": "..\\Ex4_Tabuada\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T18:55:02.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex10_revisao3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ex10_revisao3\\Program.cs",
+              "ToolTip": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex10_revisao3\\Program.cs",
+              "RelativeToolTip": "..\\Ex10_revisao3\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T17:49:33.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex9_if6\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ex9_if6\\Program.cs",
+              "ToolTip": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex9_if6\\Program.cs",
+              "RelativeToolTip": "..\\Ex9_if6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T20:40:10.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex9_if5\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ex9_if5\\Program.cs",
+              "ToolTip": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex9_if5\\Program.cs",
+              "RelativeToolTip": "..\\Ex9_if5\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T19:45:05.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex9_if4\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ex9_if4\\Program.cs",
+              "ToolTip": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex9_if4\\Program.cs",
+              "RelativeToolTip": "..\\Ex9_if4\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T19:14:51.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex9_if3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ex9_if3\\Program.cs",
+              "ToolTip": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex9_if3\\Program.cs",
+              "RelativeToolTip": "..\\Ex9_if3\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwBwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T16:00:54.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex8_while6\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ex8_while6\\Program.cs",
+              "ToolTip": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex8_while6\\Program.cs",
+              "RelativeToolTip": "..\\Ex8_while6\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T12:26:39.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex9_if7\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ex9_if7\\Program.cs",
+              "ToolTip": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex9_if7\\Program.cs",
+              "RelativeToolTip": "..\\Ex9_if7\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T11:16:07.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex9_02\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ex9_02\\Program.cs",
+              "ToolTip": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex9_02\\Program.cs",
+              "RelativeToolTip": "..\\Ex9_02\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwB8AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T15:34:11.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex9_if\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ex9_if\\Program.cs",
+              "ToolTip": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex9_if\\Program.cs",
+              "RelativeToolTip": "..\\Ex9_if\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T14:07:35.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex8_while10\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ex8_while10\\Program.cs",
+              "ToolTip": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex8_while10\\Program.cs",
+              "RelativeToolTip": "..\\Ex8_while10\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwBcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T17:52:49.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex8_while9\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ex8_while9\\Program.cs",
+              "ToolTip": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex8_while9\\Program.cs",
+              "RelativeToolTip": "..\\Ex8_while9\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T17:40:11.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex8_while7\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ex8_while7\\Program.cs",
+              "ToolTip": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex8_while7\\Program.cs",
+              "RelativeToolTip": "..\\Ex8_while7\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA4wB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T13:01:04.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex8_while8\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ex8_while8\\Program.cs",
+              "ToolTip": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex8_while8\\Program.cs",
+              "RelativeToolTip": "..\\Ex8_while8\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T13:00:40.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex8_while5\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ex8_while5\\Program.cs",
+              "ToolTip": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex8_while5\\Program.cs",
+              "RelativeToolTip": "..\\Ex8_while5\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T17:57:12.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T17:33:02.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex8_while3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ex8_while3\\Program.cs",
+              "ToolTip": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex8_while3\\Program.cs",
+              "RelativeToolTip": "..\\Ex8_while3\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T00:23:27.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex8_while2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ex8_while2\\Program.cs",
+              "ToolTip": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex8_while2\\Program.cs",
+              "RelativeToolTip": "..\\Ex8_while2\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T00:19:02.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex8_while1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ex8_while1\\Program.cs",
+              "ToolTip": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex8_while1\\Program.cs",
+              "RelativeToolTip": "..\\Ex8_while1\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T00:13:11.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex8_while\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ex8_while\\Program.cs",
+              "ToolTip": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex8_while\\Program.cs",
+              "RelativeToolTip": "..\\Ex8_while\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T23:11:27.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex7_Fibonacci\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ex7_Fibonacci\\Program.cs",
+              "ToolTip": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex7_Fibonacci\\Program.cs",
+              "RelativeToolTip": "..\\Ex7_Fibonacci\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T22:50:27.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex6_for10\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ex6_for10\\Program.cs",
+              "ToolTip": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex6_for10\\Program.cs",
+              "RelativeToolTip": "..\\Ex6_for10\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T22:21:19.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex6_for9\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ex6_for9\\Program.cs",
+              "ToolTip": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex6_for9\\Program.cs",
+              "RelativeToolTip": "..\\Ex6_for9\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T22:08:24.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex6_for8\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ex6_for8\\Program.cs",
+              "ToolTip": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex6_for8\\Program.cs",
+              "RelativeToolTip": "..\\Ex6_for8\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T21:55:55.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex6_for7\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ex6_for7\\Program.cs",
+              "ToolTip": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex6_for7\\Program.cs",
+              "RelativeToolTip": "..\\Ex6_for7\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T21:57:45.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex6_for6\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ex6_for6\\Program.cs",
+              "ToolTip": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex6_for6\\Program.cs",
+              "RelativeToolTip": "..\\Ex6_for6\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwBkAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T20:44:59.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex6_for5\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ex6_for5\\Program.cs",
+              "ToolTip": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex6_for5\\Program.cs",
+              "RelativeToolTip": "..\\Ex6_for5\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T20:32:16.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex6_for4\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ex6_for4\\Program.cs",
+              "ToolTip": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex6_for4\\Program.cs",
+              "RelativeToolTip": "..\\Ex6_for4\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T19:18:57.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex6_for3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ex6_for3\\Program.cs",
+              "ToolTip": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex6_for3\\Program.cs",
+              "RelativeToolTip": "..\\Ex6_for3\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T19:05:23.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex6_for2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ex6_for2\\Program.cs",
+              "ToolTip": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex6_for2\\Program.cs",
+              "RelativeToolTip": "..\\Ex6_for2\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T18:56:57.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex6_for1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ex6_for1\\Program.cs",
+              "ToolTip": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex6_for1\\Program.cs",
+              "RelativeToolTip": "..\\Ex6_for1\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T18:20:03.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex5_Contagem\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ex5_Contagem\\Program.cs",
+              "ToolTip": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex5_Contagem\\Program.cs",
+              "RelativeToolTip": "..\\Ex5_Contagem\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T19:16:36.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex3_comparacao_de_valores\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ex3_comparacao_de_valores\\Program.cs",
+              "ToolTip": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Ex3_comparacao_de_valores\\Program.cs",
+              "RelativeToolTip": "..\\Ex3_comparacao_de_valores\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T13:03:27.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Soma\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Soma\\Program.cs",
+              "ToolTip": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\Soma\\Program.cs",
+              "RelativeToolTip": "..\\Soma\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T12:45:06.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\ExerciciosC#\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\ExerciciosC#\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T12:22:06.463Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

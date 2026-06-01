@@ -1,0 +1,8 @@
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex9_if\bin\Debug\Ex9_if.exe.config
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex9_if\bin\Debug\Ex9_if.exe
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex9_if\bin\Debug\Ex9_if.pdb
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex9_if\obj\Debug\Ex9_if.csproj.AssemblyReference.cache
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex9_if\obj\Debug\Ex9_if.csproj.CoreCompileInputs.cache
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex9_if\obj\Debug\Ex9_if.exe
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex9_if\obj\Debug\Ex9_if.pdb
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex9_if\obj\Debug\Ex9_if.exe.config

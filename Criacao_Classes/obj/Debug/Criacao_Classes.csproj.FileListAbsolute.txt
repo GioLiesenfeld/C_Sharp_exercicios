@@ -1,0 +1,8 @@
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Criacao_Classes\bin\Debug\Criacao_Classes.exe.config
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Criacao_Classes\bin\Debug\Criacao_Classes.exe
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Criacao_Classes\bin\Debug\Criacao_Classes.pdb
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Criacao_Classes\obj\Debug\Criacao_Classes.csproj.AssemblyReference.cache
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Criacao_Classes\obj\Debug\Criacao_Classes.csproj.CoreCompileInputs.cache
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Criacao_Classes\obj\Debug\Criacao_Classes.exe
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Criacao_Classes\obj\Debug\Criacao_Classes.pdb
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Criacao_Classes\obj\Debug\Criacao_Classes.exe.config

@@ -1,0 +1,14 @@
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\ClasseAnimal\obj\Debug\net9.0\ClasseAnimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\ClasseAnimal\obj\Debug\net9.0\ClasseAnimal.AssemblyInfoInputs.cache
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\ClasseAnimal\obj\Debug\net9.0\ClasseAnimal.AssemblyInfo.cs
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\ClasseAnimal\obj\Debug\net9.0\ClasseAnimal.csproj.CoreCompileInputs.cache
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\ClasseAnimal\bin\Debug\net9.0\ClasseAnimal.exe
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\ClasseAnimal\bin\Debug\net9.0\ClasseAnimal.deps.json
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\ClasseAnimal\bin\Debug\net9.0\ClasseAnimal.runtimeconfig.json
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\ClasseAnimal\bin\Debug\net9.0\ClasseAnimal.dll
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\ClasseAnimal\bin\Debug\net9.0\ClasseAnimal.pdb
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\ClasseAnimal\obj\Debug\net9.0\ClasseAnimal.dll
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\ClasseAnimal\obj\Debug\net9.0\refint\ClasseAnimal.dll
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\ClasseAnimal\obj\Debug\net9.0\ClasseAnimal.pdb
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\ClasseAnimal\obj\Debug\net9.0\ClasseAnimal.genruntimeconfig.cache
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\ClasseAnimal\obj\Debug\net9.0\ref\ClasseAnimal.dll

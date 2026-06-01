@@ -1,0 +1,14 @@
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\exercicio0102\exercicio0102\bin\Debug\net9.0\exercicio0102.exe
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\exercicio0102\exercicio0102\bin\Debug\net9.0\exercicio0102.deps.json
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\exercicio0102\exercicio0102\bin\Debug\net9.0\exercicio0102.runtimeconfig.json
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\exercicio0102\exercicio0102\bin\Debug\net9.0\exercicio0102.dll
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\exercicio0102\exercicio0102\bin\Debug\net9.0\exercicio0102.pdb
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\exercicio0102\exercicio0102\obj\Debug\net9.0\exercicio0102.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\exercicio0102\exercicio0102\obj\Debug\net9.0\exercicio0102.AssemblyInfoInputs.cache
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\exercicio0102\exercicio0102\obj\Debug\net9.0\exercicio0102.AssemblyInfo.cs
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\exercicio0102\exercicio0102\obj\Debug\net9.0\exercicio0102.csproj.CoreCompileInputs.cache
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\exercicio0102\exercicio0102\obj\Debug\net9.0\exercicio0102.dll
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\exercicio0102\exercicio0102\obj\Debug\net9.0\refint\exercicio0102.dll
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\exercicio0102\exercicio0102\obj\Debug\net9.0\exercicio0102.pdb
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\exercicio0102\exercicio0102\obj\Debug\net9.0\exercicio0102.genruntimeconfig.cache
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\exercicio0102\exercicio0102\obj\Debug\net9.0\ref\exercicio0102.dll

@@ -1,0 +1,14 @@
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex_for\bin\Debug\net9.0\Ex_for.exe
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex_for\bin\Debug\net9.0\Ex_for.deps.json
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex_for\bin\Debug\net9.0\Ex_for.runtimeconfig.json
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex_for\bin\Debug\net9.0\Ex_for.dll
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex_for\bin\Debug\net9.0\Ex_for.pdb
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex_for\obj\Debug\net9.0\Ex_for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex_for\obj\Debug\net9.0\Ex_for.AssemblyInfoInputs.cache
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex_for\obj\Debug\net9.0\Ex_for.AssemblyInfo.cs
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex_for\obj\Debug\net9.0\Ex_for.csproj.CoreCompileInputs.cache
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex_for\obj\Debug\net9.0\Ex_for.dll
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex_for\obj\Debug\net9.0\refint\Ex_for.dll
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex_for\obj\Debug\net9.0\Ex_for.pdb
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex_for\obj\Debug\net9.0\Ex_for.genruntimeconfig.cache
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex_for\obj\Debug\net9.0\ref\Ex_for.dll

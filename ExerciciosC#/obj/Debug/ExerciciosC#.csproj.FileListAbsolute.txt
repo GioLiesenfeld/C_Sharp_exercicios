@@ -1,0 +1,7 @@
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\ExerciciosC#\obj\Debug\ExerciciosC#.csproj.AssemblyReference.cache
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\ExerciciosC#\obj\Debug\ExerciciosC#.csproj.CoreCompileInputs.cache
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\ExerciciosC#\bin\Debug\ExerciciosC#.exe.config
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\ExerciciosC#\bin\Debug\ExerciciosC#.exe
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\ExerciciosC#\bin\Debug\ExerciciosC#.pdb
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\ExerciciosC#\obj\Debug\ExerciciosC#.exe
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\ExerciciosC#\obj\Debug\ExerciciosC#.pdb

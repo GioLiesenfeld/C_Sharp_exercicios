@@ -1,0 +1,14 @@
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex_forMedia\obj\Debug\net9.0\Ex_forMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex_forMedia\obj\Debug\net9.0\Ex_forMedia.AssemblyInfoInputs.cache
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex_forMedia\obj\Debug\net9.0\Ex_forMedia.AssemblyInfo.cs
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex_forMedia\obj\Debug\net9.0\Ex_forMedia.csproj.CoreCompileInputs.cache
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex_forMedia\bin\Debug\net9.0\Ex_forMedia.exe
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex_forMedia\bin\Debug\net9.0\Ex_forMedia.deps.json
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex_forMedia\bin\Debug\net9.0\Ex_forMedia.runtimeconfig.json
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex_forMedia\bin\Debug\net9.0\Ex_forMedia.dll
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex_forMedia\bin\Debug\net9.0\Ex_forMedia.pdb
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex_forMedia\obj\Debug\net9.0\Ex_forMedia.dll
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex_forMedia\obj\Debug\net9.0\refint\Ex_forMedia.dll
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex_forMedia\obj\Debug\net9.0\Ex_forMedia.pdb
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex_forMedia\obj\Debug\net9.0\Ex_forMedia.genruntimeconfig.cache
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex_forMedia\obj\Debug\net9.0\ref\Ex_forMedia.dll

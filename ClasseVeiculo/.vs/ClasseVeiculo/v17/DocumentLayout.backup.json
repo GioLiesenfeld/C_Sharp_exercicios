@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\ClasseVeiculo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{750268B5-6711-428A-B88B-3CE8A47851D5}|ClasseVeiculo.csproj|c:\\users\\gioli\\documents\\faculdade\\ads\\c#\\classeveiculo\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{750268B5-6711-428A-B88B-3CE8A47851D5}|ClasseVeiculo.csproj|solutionrelative:moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{750268B5-6711-428A-B88B-3CE8A47851D5}|ClasseVeiculo.csproj|c:\\users\\gioli\\documents\\faculdade\\ads\\c#\\classeveiculo\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{750268B5-6711-428A-B88B-3CE8A47851D5}|ClasseVeiculo.csproj|solutionrelative:carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{750268B5-6711-428A-B88B-3CE8A47851D5}|ClasseVeiculo.csproj|c:\\users\\gioli\\documents\\faculdade\\ads\\c#\\classeveiculo\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{750268B5-6711-428A-B88B-3CE8A47851D5}|ClasseVeiculo.csproj|solutionrelative:veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{750268B5-6711-428A-B88B-3CE8A47851D5}|ClasseVeiculo.csproj|c:\\users\\gioli\\documents\\faculdade\\ads\\c#\\classeveiculo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{750268B5-6711-428A-B88B-3CE8A47851D5}|ClasseVeiculo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\ClasseVeiculo\\Carro.cs",
+              "RelativeDocumentMoniker": "Carro.cs",
+              "ToolTip": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\ClasseVeiculo\\Carro.cs",
+              "RelativeToolTip": "Carro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T18:20:49.685Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Moto.cs",
+              "DocumentMoniker": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\ClasseVeiculo\\Moto.cs",
+              "RelativeDocumentMoniker": "Moto.cs",
+              "ToolTip": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\ClasseVeiculo\\Moto.cs",
+              "RelativeToolTip": "Moto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T18:21:05.331Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\ClasseVeiculo\\Veiculo.cs",
+              "RelativeDocumentMoniker": "Veiculo.cs",
+              "ToolTip": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\ClasseVeiculo\\Veiculo.cs",
+              "RelativeToolTip": "Veiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T18:13:01.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\ClasseVeiculo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\gioli\\Documents\\FACULDADE\\ADS\\C#\\ClasseVeiculo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T18:07:50.175Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

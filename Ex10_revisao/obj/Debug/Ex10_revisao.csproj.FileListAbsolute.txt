@@ -1,0 +1,7 @@
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex10_revisao\bin\Debug\Ex10_revisao.exe.config
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex10_revisao\bin\Debug\Ex10_revisao.exe
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex10_revisao\bin\Debug\Ex10_revisao.pdb
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex10_revisao\obj\Debug\Ex10_revisao.csproj.AssemblyReference.cache
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex10_revisao\obj\Debug\Ex10_revisao.csproj.CoreCompileInputs.cache
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex10_revisao\obj\Debug\Ex10_revisao.exe
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex10_revisao\obj\Debug\Ex10_revisao.pdb

@@ -1,0 +1,8 @@
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex9_if5\bin\Debug\Ex9_if5.exe.config
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex9_if5\bin\Debug\Ex9_if5.exe
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex9_if5\bin\Debug\Ex9_if5.pdb
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex9_if5\obj\Debug\Ex9_if5.csproj.AssemblyReference.cache
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex9_if5\obj\Debug\Ex9_if5.csproj.CoreCompileInputs.cache
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex9_if5\obj\Debug\Ex9_if5.exe
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex9_if5\obj\Debug\Ex9_if5.pdb
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Ex9_if5\obj\Debug\Ex9_if5.exe.config

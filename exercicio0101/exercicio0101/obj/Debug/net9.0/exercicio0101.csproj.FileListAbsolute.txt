@@ -1,0 +1,14 @@
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\exercicio0101\exercicio0101\obj\Debug\net9.0\exercicio0101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\exercicio0101\exercicio0101\obj\Debug\net9.0\exercicio0101.AssemblyInfoInputs.cache
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\exercicio0101\exercicio0101\obj\Debug\net9.0\exercicio0101.AssemblyInfo.cs
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\exercicio0101\exercicio0101\obj\Debug\net9.0\exercicio0101.csproj.CoreCompileInputs.cache
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\exercicio0101\exercicio0101\bin\Debug\net9.0\exercicio0101.exe
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\exercicio0101\exercicio0101\bin\Debug\net9.0\exercicio0101.deps.json
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\exercicio0101\exercicio0101\bin\Debug\net9.0\exercicio0101.runtimeconfig.json
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\exercicio0101\exercicio0101\bin\Debug\net9.0\exercicio0101.dll
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\exercicio0101\exercicio0101\bin\Debug\net9.0\exercicio0101.pdb
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\exercicio0101\exercicio0101\obj\Debug\net9.0\exercicio0101.dll
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\exercicio0101\exercicio0101\obj\Debug\net9.0\refint\exercicio0101.dll
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\exercicio0101\exercicio0101\obj\Debug\net9.0\exercicio0101.pdb
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\exercicio0101\exercicio0101\obj\Debug\net9.0\exercicio0101.genruntimeconfig.cache
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\exercicio0101\exercicio0101\obj\Debug\net9.0\ref\exercicio0101.dll

@@ -1,0 +1,14 @@
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Classes_ex2\bin\Debug\net9.0\Classes_ex2.exe
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Classes_ex2\bin\Debug\net9.0\Classes_ex2.deps.json
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Classes_ex2\bin\Debug\net9.0\Classes_ex2.runtimeconfig.json
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Classes_ex2\bin\Debug\net9.0\Classes_ex2.dll
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Classes_ex2\bin\Debug\net9.0\Classes_ex2.pdb
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Classes_ex2\obj\Debug\net9.0\Classes_ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Classes_ex2\obj\Debug\net9.0\Classes_ex2.AssemblyInfoInputs.cache
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Classes_ex2\obj\Debug\net9.0\Classes_ex2.AssemblyInfo.cs
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Classes_ex2\obj\Debug\net9.0\Classes_ex2.csproj.CoreCompileInputs.cache
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Classes_ex2\obj\Debug\net9.0\Classes_ex2.dll
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Classes_ex2\obj\Debug\net9.0\refint\Classes_ex2.dll
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Classes_ex2\obj\Debug\net9.0\Classes_ex2.pdb
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Classes_ex2\obj\Debug\net9.0\Classes_ex2.genruntimeconfig.cache
+C:\Users\gioli\Documents\FACULDADE\ADS\C#\Classes_ex2\obj\Debug\net9.0\ref\Classes_ex2.dll
