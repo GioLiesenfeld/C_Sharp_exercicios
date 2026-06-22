@@ -1,8 +1,0 @@
-C:\Users\gioli\Documents\ESTUDOS\C#\cadastro-funcionario\obj\Debug\cadastro-funcionario.csproj.AssemblyReference.cache
-C:\Users\gioli\Documents\ESTUDOS\C#\cadastro-funcionario\obj\Debug\cadastro-funcionario.csproj.CoreCompileInputs.cache
-C:\Users\gioli\Documents\ESTUDOS\C#\cadastro-funcionario\bin\Debug\cadastro-funcionario.exe.config
-C:\Users\gioli\Documents\ESTUDOS\C#\cadastro-funcionario\bin\Debug\cadastro-funcionario.exe
-C:\Users\gioli\Documents\ESTUDOS\C#\cadastro-funcionario\bin\Debug\cadastro-funcionario.pdb
-C:\Users\gioli\Documents\ESTUDOS\C#\cadastro-funcionario\obj\Debug\cadastro-funcionario.exe
-C:\Users\gioli\Documents\ESTUDOS\C#\cadastro-funcionario\obj\Debug\cadastro-funcionario.pdb
-C:\Users\gioli\Documents\ESTUDOS\C#\cadastro-funcionario\obj\Debug\cadastro-funcionario.exe.config
